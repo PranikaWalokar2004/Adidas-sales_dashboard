@@ -79,3 +79,5 @@ Feel free to open a pull request or raise an issue.
 - Email: pranikawalokar@gmail.com
 
 - LinkedIn: https://www.linkedin.com/in/pranika-prashant-walokar-6890a4252
+  <img width="1115" height="628" alt="adidas_dashboard" src="https://github.com/user-attachments/assets/5fe2dc64-5943-4c45-984f-4ad125e0e1f3" />
+
