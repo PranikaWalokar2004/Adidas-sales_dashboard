@@ -78,4 +78,4 @@ Feel free to open a pull request or raise an issue.
 - Data Analyst
 - Email: pranikawalokar@gmail.com
 
-- LinkedIn: linkedin.com/in/pranika-prashant-walokar-6890a4252
+- LinkedIn: https://www.linkedin.com/in/pranika-prashant-walokar-6890a4252
