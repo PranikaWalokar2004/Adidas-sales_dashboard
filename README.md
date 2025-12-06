@@ -52,11 +52,12 @@ It simplifies complex data into an intuitive analytical experience for stakehold
 - Data Cleaning & Transformation
 
 📂 Project Structure
-📁 Adidas-Sales-Analysis/
-│── 📄 Adidas_Sales_Dashboard.pbix
+Adidas-Sales-Analysis/
+│── 📄 Adidas Sales Analysis.pbix
+│── 📄 Adidas US Sales Datasets.xlsx
+│── 📄 Problem Statement.pptx
+│── 🖼️ Adidas_logo.png
 │── 📄 README.md
-│── 📁 Data/
-│      └── adidas_sales.csv
 
 📥 How to Use
 - Download the .pbix file from the repository
