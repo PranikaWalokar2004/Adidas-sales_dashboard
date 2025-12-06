@@ -8,7 +8,7 @@ It simplifies complex data into an intuitive analytical experience for stakehold
 
 📊 Key Metrics
 -Total Sales: $899.9M
--Total Profit: $332.1M
+- Total Profit: $332.1M
 -Total Units Sold: 2.5M
 -Profit Margin: ~42.3%
 -Data Redundancy Reduced: 25–30% during preprocessing
