@@ -51,3 +51,32 @@ DAX
 Power Query
 Excel / CSV datasets
 Data Cleaning & Transformation
+
+📂 Project Structure
+📁 Adidas-Sales-Analysis/
+│── 📄 Adidas_Sales_Dashboard.pbix
+│── 📄 README.md
+│── 📁 Data/
+│      └── adidas_sales.csv
+
+📥 How to Use
+Download the .pbix file from the repository
+Open it using Power BI Desktop
+Interact with filters, visuals, and drill-down options to explore insights
+
+📌 Future Enhancements
+Add forecasting for monthly sales
+Include a profitability heatmap by region
+Add retailer segmentation analysis
+Integrate dynamic drill-through reports
+
+🤝 Contributions
+Contributions and suggestions are welcome!
+Feel free to open a pull request or raise an issue.
+
+📧 Contact
+Pranika Walokar
+Data Analyst
+Email: pranikawalokar@gmail.com
+
+LinkedIn: linkedin.com/in/pranika-prashant-walokar-6890a4252
