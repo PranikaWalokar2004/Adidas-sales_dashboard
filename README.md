@@ -53,11 +53,11 @@ It simplifies complex data into an intuitive analytical experience for stakehold
 
 📂 Project Structure
 Adidas-Sales-Analysis/
-│── 📄 Adidas Sales Analysis.pbix
-│── 📄 Adidas US Sales Datasets.xlsx
-│── 📄 Problem Statement.pptx
-│── 🖼️ Adidas_logo.png
-│── 📄 README.md
+- │── 📄 Adidas Sales Analysis.pbix
+- │── 📄 Adidas US Sales Datasets.xlsx
+- │── 📄 Problem Statement.pptx
+- │── 🖼️ Adidas_logo.png
+- │── 📄 README.md
 
 📥 How to Use
 - Download the .pbix file from the repository
